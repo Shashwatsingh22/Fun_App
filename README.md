@@ -1,6 +1,6 @@
 # Fun_App
 <h4>
-This is my first app  by the use of flutter framework....
+This is my first app  by the use of flutter framework....<br>
 To setup this same App in your PC then ---</h4>
 <pre>
   -->First Make the test app by the help of the Command;
@@ -13,5 +13,5 @@ To setup this same App in your PC then ---</h4>
   --> Now Debug In your Mobile or AVD ...
 </pre>
 <h4>Screenshot :- </h4>
-<img src="Images/1.jpg" ,height="500px",weidth="300px">
+<img src="Images/1.jpg"  height="500px" weidth="300px">
   
